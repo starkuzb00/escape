@@ -125,7 +125,7 @@ body{
     }
 
     .lets a{
-        
+        font-size: 17px !important;
     }
     
   
@@ -147,7 +147,24 @@ body{
     }
 
 
-   
+    .escape_item .escape_link{
+        font-size: 16px !important;
+        margin: 0px 30px;
+    }
+
+    .escape h3{
+        font-style: 18px !important;
+    }
+
+
+    .escape{
+      margin-top: -60%;
+    }
+
+
+   .lets{
+    margin-top: -37% !important;
+   }
 
 
 }
